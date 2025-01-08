@@ -10,6 +10,6 @@ I've never considered myself to be good with computers.
 I'm looking forwad to building my understanding of how computers work.
 Outside of class, I'd like to spend some time refining some of my projects from 120, if I have the time.
 
-##Something Interesting
+## Something Interesting
 I'm a big reader, primarily in the fantasy genre.
 I have a goal to read 52 books this year (about 1 every week). I got to 38 last year. 
