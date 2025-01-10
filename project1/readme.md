@@ -15,7 +15,7 @@ I'm a big reader, primarily in the fantasy genre.
 I have a goal to read 52 books this year (about 1 every week). I got to 38 last year.
 
 ### Pseudocode for hello.py
-'''
+```
 userName gets input from 'What is your name?'  
 print 'Hi, {userName}'  
 if userName is 'Andy':  
@@ -32,7 +32,7 @@ create while keepGoing loop:
 		print 'I'm not sure I understand. Please respond with a 'yes' or 'no'.'  
 		loop continues  
 print 'Thanks for talking with me!'  
-'''
+```
 
 ### Testing out other commands
 **This is bold**  
