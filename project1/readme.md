@@ -12,4 +12,31 @@ Outside of class, I'd like to spend some time refining some of my projects from 
 
 ## Something Interesting
 I'm a big reader, primarily in the fantasy genre.
-I have a goal to read 52 books this year (about 1 every week). I got to 38 last year. 
+I have a goal to read 52 books this year (about 1 every week). I got to 38 last year.
+
+### Pseudocode for hello.py
+userName gets input from 'What is your name?'
+print 'Hi, {userName}'
+if userName is 'Andy':
+	print 'I'm looking forward to this semester with you'
+create while keepGoing loop:
+	response gets input from 'Do you think I will do well in CS 121?'
+	if response starts with 'y':
+		print 'Thanks for the vote of confidence!'
+		loop ends
+	elif response starts with 'n':
+		print 'Honestly, that's fair.'
+		loop ends
+	else:
+		print 'I'm not sure I understand. Please respond with a 'yes' or 'no'.'
+		loop continues
+print 'Thanks for talking with me!'
+
+### Testing out other commands
+**This is bold**
+*This is italicized*
+
+Here's a list:
+- Thing 1
+- Thing 2
+- Thing 3 
